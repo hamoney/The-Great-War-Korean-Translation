@@ -309,10 +309,10 @@ HOL_ww1_diplomatic_effort:0 "외교 주력"
 HOL_ww1_diplomatic_effort_desc:0 "It is becoming increasingly difficult to stay in the middle of the affairs in the world as it stands. Our diplomatic corps is already asking if we're to be involved in the coming power struggle, or if we are to stay out of things entirely. While we can't answer that question quite yet, we can easily expand our corps to be able to choose one of these options."
 
 HOL_ww1_supportgermany:0 "독일을 지원한다"
-HOL_ww1_supportgermany_desc:0 "With the German Empire's massive industrial sector, they seem to be the clear-cut bet, even if they are diplomatically isolated. Showing public support to the Germans on even a few, non-key matters will send a message that we're moving closer to the Central Powers."
+산업HOL_ww1_supportgermany_desc:0 "독일 제국의 대규모 산업 부문은 그들이 외교적으로 고립되어 있어도 확실한 베팅이 될 것입니다. 중요하지 않은 문제에 대해서도 독일 국민들에게 대중적 지지를 보여주는 것은 우리가 동맹국에 더 가까이 가고 있다는 메시지를 보낼 것입니다."
 
 HOL_ww1_supportfrance:0 "프랑스를 지원한다"
-HOL_ww1_supportfrance_desc:0 "Though France's industry can't compete with Germany's, they have far more friends, and we'd even be one more. By supporting France on in a few of the upcoming diplomatic issues, we may just win them over."
+HOL_ww1_supportfrance_desc:0 "프랑스의 산업이 독일과 경쟁 할 수는 없지만 그들은 훨씬 더 많은 친구가 있으며 우리가 추가 될 것입니다. 몇가지 다가올 외교문제에서 프랑스를 지원함으로써 우리가 동맹국들을 설득시킬 수 있을지도 모릅니다."
 
 HOL_ww1_supportaustria:0 "오-헝을 지원한다"
 HOL_ww1_supportaustria_desc:0 "The old empire of Austria-Hungary has lived to see the rise of most of the major nations on the world map. So, surely, if we want to become seen as a more major nation, what better country to support? This will also help us draw closer to the Central Powers."
@@ -398,15 +398,15 @@ HOL_deterrence:0 "전쟁 억제"
 HOL_deterrence_desc:0 "Standing alone, we rarely benefit from war. Fortunately, we know that the best defense is one so well-known you never have to put it to use."
 
 HOL_volunteer_corps:0 "의용 군단"
-HOL_volunteer_corps_desc:0 "Forcing our people to die for ideals of freedom would be an exercise in irony, but establishing means for those who wish to aid people abroad is not."
+HOL_volunteer_corps_desc:0 "우리 국민을 자유사상을 위해 순국시키는 것은 아이러니하게도 훈련이 될것이지만, 외국 사람들을 돕고자 하는 사람을 위한 수단을 구축하는 것은 아닙니다"
 
 HOL_foreign_expeditions:0 "외국 원정"
 HOL_foreign_expeditions_desc:0 "With our enemies prepared to intervene in distant conflicts on behalf of their ideals, we must be ready to do the same for ours."
 
 HOL_why_we_fight:0 "우리는 왜 싸우는가"
-HOL_why_we_fight_desc:0 "The world is growing increasingly unsafe. Our people need to see the atrocities being committed by those who crave power. It is time we rally the people to our cause and ensure everyone is ready to fight for our freedom."
+HOL_why_we_fight_desc:0 "세계는 더욱 불안해지고 있습니다. 우리국민은 힘을 갈망하는 자들이 저지른 잔학 행위를 알 필요가 있습니다.우리의 의도를 국민에게 알릴 때가 되었으며 우리의 자유를 위해 모든 이들이 싸울 준비가 되었음을 확실히 알릴 때입니다."
 
 HOL_technology_sharing:0 "기술 공유"
-HOL_technology_sharing_desc:0 "By sharing technological advances with our allies, our whole faction will be able to conduct wartime R&D more efficiently."
+HOL_technology_sharing_desc:0 "우리의 동맹국과 우위에 있는 기술을 공유함으로써 동맹국은 전시연구를 보다 효율적으로 수행 할 수 있도록 될 것입니다."
 
  #--------------------------------------------------------------
